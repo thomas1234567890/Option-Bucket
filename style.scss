@@ -1,0 +1,15 @@
+:root {
+  --radius: 0%;
+}
+
+.option_group {
+}
+.input_range {
+}
+.box {
+  width: 300px;
+  height: 300px;
+  background-color: #000;
+  border: 1px solid #000;
+  border-radius: var(--radius);
+}
